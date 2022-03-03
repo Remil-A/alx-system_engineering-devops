@@ -1,2 +1,4 @@
 #!/bin/bash
-chmod ug+x, o+r hello
+chmod ug[B
+#!/bin/bash
+chmod ug+x o+r hello
